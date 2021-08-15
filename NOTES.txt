@@ -1,0 +1,7 @@
+## Novice multimodule bootstrap
+
+Modules App, Server, Client, and common Protocol are to be developed together
+but we want any piece go-gettable @version.
+
+## 1st use net of replaces
+
