@@ -1,4 +1,4 @@
 package main
 
-const Vstamp string = "v0.1.9"
+const Vstamp string = "v0.2.0"
 
